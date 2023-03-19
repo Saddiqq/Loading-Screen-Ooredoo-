@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginScreen.HomePage">
+    <ContentPage.Content>
+        <StackLayout Padding="9" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+            <Label Text="Welcome to Home Page!"
+                   
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                   FontSize="Title" />
+            <Image Source="HomePage.Png" WidthRequest="380" HeightRequest="900"></Image>
+           
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

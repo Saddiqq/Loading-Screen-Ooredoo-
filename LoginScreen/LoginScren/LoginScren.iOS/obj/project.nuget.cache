@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vrQseZ/DuFESDqGAhdvU+muz40Eoq5qfmdjqGNUOGEoI2c4RfhUxQIR2YDdO1TYJg1vu8cDQWVWQBcgd5X971Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\LoginScren\\LoginScren\\LoginScren.iOS\\LoginScren.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
